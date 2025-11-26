@@ -1,7 +1,7 @@
  ### Olá eu sou o Iuri Galdino 🇧🇷
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hi_iurigaldino/)
 
- ![Iuri GitHub stats](https://github-readme-stats.vercel.app/api?username=IuriAdshard&show_icons=true&theme=radical)
+ [Iuri GitHub stats](https://github-readme-stats.vercel.app/api?username=IuriAdshard&show_icons=true&theme=radical)
 
  ## Tecnologias que eu uso no meu dia 
 
